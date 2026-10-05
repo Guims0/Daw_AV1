@@ -1,0 +1,3 @@
+id;tipo;enunciado
+1;M;Qual time Brasileiro tem 4 libertadores ?
+2;T;Qual time Brasileiro tem 4 libertadores ?

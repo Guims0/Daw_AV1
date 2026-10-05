@@ -1,0 +1,6 @@
+id;idpergunta;resposta;certa
+1;1;Flamengo;1
+2;1;Palmeiras;0
+3;1;Santos;0
+4;1;Gremio;0
+5;2;Flamengo;1
